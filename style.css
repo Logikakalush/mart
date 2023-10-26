@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+header
+{
+  background-color: blue;  
+}
+header a{
+    color: blue;
+    text-align: center;
+     background-color: chartreuse;
+     padding: 10px;
+}
+h1{
+  text-align: center;
+  font-family:50px;
+  color: rgb(202, 139, 62);
+  border: 15px solid blue;
+  margin: 70px;
+}
+nav{
+  background-color: rgb(255, 238, 0);
+  padding: 15px;
+}
+nav a{
+  background-color:rgb(59, 196, 17) ;
+  text-decoration:none ;
+  padding: 5px;
+  margin: 10px;
+  border: 2px solid hotpink;
+  border-radius: 10px;
+}
+main p{
+  background-color: rgb(196, 139, 248);
+  border: 5px dashed  rgb(17, 0, 255);
+  text-align: center;
+}
+h2{
+  color: rgb(27, 2, 255);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  text-align: center;
+}
+main img{
+  ;
+}
